@@ -8,7 +8,7 @@ link-citations: true
 
 # download settings
 
-#download: # full-text outputs
+download: # full-text outputs
   - label: PDF
     link: text.pdf
 #  - label: EPUB
