@@ -2,363 +2,43 @@
 chapter: 000
 ---
 
-# Tootley Dootley of Chapter
+# Application for grant of permit
 
-Paragraph. [Link](https://example.com)
+## General rules
 
-## Section
+Source: [Space (Launches and Returns) (General) Rules 2019 - Part 3, Division 3 of the General Rules](https://www.legislation.gov.au/Details/F2019L01118/Html/Text#_Toc16499523)
 
-Paragraph. *Italics* and **bold**.
+## 43 - Application must be in writing and in English
 
-List:
+## 44 - Information about applicant
 
-- item
-- item
-- item
+::: {.question text="a) Name of applicant"} :::
 
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
+Gordon McCracken
 
 :::
 
-### Subsection
+::: {.question text="b) Contact officer"} :::
 
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
+Kelly Yeah, Blue Dwarf Space
 
 :::
 
-#### Definitions
+::: {.question text="c) Applicant's ABN"} :::
 
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
----
-chapter: 001
----
-
-# Tootley Dootley of Chapter
-
-Paragraph. [Link](https://example.com)
-
-## Section
-
-Paragraph. *Italics* and **bold**.
-
-List:
-
-- item
-- item
-- item
-
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
+164 696 334
 
 :::
 
-### Subsection
+::: {.question text="d) Applicant's ACN"} :::
 
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
+785 324 558
 
 :::
 
-#### Definitions
+::: {.question text="e) Entities with ownership"} :::
 
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
----
-chapter: 002
----
-
-# Tootley Dootley of Chapter
-
-Paragraph. [Link](https://example.com)
-
-## Section
-
-Paragraph. *Italics* and **bold**.
-
-List:
-
-- item
-- item
-- item
-
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
+- Gordon McCracken (Australia)  
+- Zak Spacecraft (Australia)  
 
 :::
-
-### Subsection
-
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
-
-:::
-
-#### Definitions
-
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
----
-chapter: 003
----
-
-# Tootley Dootley of Chapter
-
-Paragraph. [Link](https://example.com)
-
-## Section
-
-Paragraph. *Italics* and **bold**.
-
-List:
-
-- item
-- item
-- item
-
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
-
-:::
-
-### Subsection
-
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
-
-:::
-
-#### Definitions
-
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
----
-chapter: 004
----
-
-# Tootley Dootley of Chapter
-
-Paragraph. [Link](https://example.com)
-
-## Section
-
-Paragraph. *Italics* and **bold**.
-
-List:
-
-- item
-- item
-- item
-
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
-
-:::
-
-### Subsection
-
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
-
-:::
-
-#### Definitions
-
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
----
-chapter: 005
----
-
-# Tootley Dootley of Chapter
-
-Paragraph. [Link](https://example.com)
-
-## Section
-
-Paragraph. *Italics* and **bold**.
-
-List:
-
-- item
-- item
-- item
-
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
-
-:::
-
-### Subsection
-
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
-
-:::
-
-#### Definitions
-
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
----
-chapter: 006
----
-
-# Tootley Dootley of Chapter
-
-Paragraph. [Link](https://example.com)
-
-## Section
-
-Paragraph. *Italics* and **bold**.
-
-List:
-
-- item
-- item
-- item
-
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
-
-:::
-
-### Subsection
-
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
-
-:::
-
-#### Definitions
-
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
