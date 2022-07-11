@@ -1,49 +1,364 @@
-# huh 00
+---
+chapter: 000
+---
 
-## maybe
+# Tootley Dootley of Chapter
 
-sure
+Paragraph. [Link](https://example.com)
 
-### huh 00 END
-# huh 01
+## Section
 
-## yeah
+Paragraph. *Italics* and **bold**.
 
-why
+List:
 
-### huh 01 END
-# huh 02
+- item
+- item
+- item
 
-## cool
+::: box :::
 
-nah
+Boxes are useful for drawing attention to a main point.
 
-### huh 02 END
-# huh 03
+:::
 
-## now
+### Subsection
 
-poopy
+> Blockquote...
 
-### huh 03 END
-# huh 04
+Ordered list:
 
-## plowww
+1.
+1.
+1.
+1.
 
-fun
+#### Excercise
 
-### huh 04
-# huh 05
+::: {.question text="Write the question here."} :::
 
-## quick
+Write the solution here.
 
-nahhhhhh
+:::
 
-### huh 05 END
-# huh 06
+#### Definitions
 
-## blah
+item
 
-asdf
+: item's definition
 
-### huh 06 END
+another item
+
+: another item's definition.
+---
+chapter: 001
+---
+
+# Tootley Dootley of Chapter
+
+Paragraph. [Link](https://example.com)
+
+## Section
+
+Paragraph. *Italics* and **bold**.
+
+List:
+
+- item
+- item
+- item
+
+::: box :::
+
+Boxes are useful for drawing attention to a main point.
+
+:::
+
+### Subsection
+
+> Blockquote...
+
+Ordered list:
+
+1.
+1.
+1.
+1.
+
+#### Excercise
+
+::: {.question text="Write the question here."} :::
+
+Write the solution here.
+
+:::
+
+#### Definitions
+
+item
+
+: item's definition
+
+another item
+
+: another item's definition.
+---
+chapter: 002
+---
+
+# Tootley Dootley of Chapter
+
+Paragraph. [Link](https://example.com)
+
+## Section
+
+Paragraph. *Italics* and **bold**.
+
+List:
+
+- item
+- item
+- item
+
+::: box :::
+
+Boxes are useful for drawing attention to a main point.
+
+:::
+
+### Subsection
+
+> Blockquote...
+
+Ordered list:
+
+1.
+1.
+1.
+1.
+
+#### Excercise
+
+::: {.question text="Write the question here."} :::
+
+Write the solution here.
+
+:::
+
+#### Definitions
+
+item
+
+: item's definition
+
+another item
+
+: another item's definition.
+---
+chapter: 003
+---
+
+# Tootley Dootley of Chapter
+
+Paragraph. [Link](https://example.com)
+
+## Section
+
+Paragraph. *Italics* and **bold**.
+
+List:
+
+- item
+- item
+- item
+
+::: box :::
+
+Boxes are useful for drawing attention to a main point.
+
+:::
+
+### Subsection
+
+> Blockquote...
+
+Ordered list:
+
+1.
+1.
+1.
+1.
+
+#### Excercise
+
+::: {.question text="Write the question here."} :::
+
+Write the solution here.
+
+:::
+
+#### Definitions
+
+item
+
+: item's definition
+
+another item
+
+: another item's definition.
+---
+chapter: 004
+---
+
+# Tootley Dootley of Chapter
+
+Paragraph. [Link](https://example.com)
+
+## Section
+
+Paragraph. *Italics* and **bold**.
+
+List:
+
+- item
+- item
+- item
+
+::: box :::
+
+Boxes are useful for drawing attention to a main point.
+
+:::
+
+### Subsection
+
+> Blockquote...
+
+Ordered list:
+
+1.
+1.
+1.
+1.
+
+#### Excercise
+
+::: {.question text="Write the question here."} :::
+
+Write the solution here.
+
+:::
+
+#### Definitions
+
+item
+
+: item's definition
+
+another item
+
+: another item's definition.
+---
+chapter: 005
+---
+
+# Tootley Dootley of Chapter
+
+Paragraph. [Link](https://example.com)
+
+## Section
+
+Paragraph. *Italics* and **bold**.
+
+List:
+
+- item
+- item
+- item
+
+::: box :::
+
+Boxes are useful for drawing attention to a main point.
+
+:::
+
+### Subsection
+
+> Blockquote...
+
+Ordered list:
+
+1.
+1.
+1.
+1.
+
+#### Excercise
+
+::: {.question text="Write the question here."} :::
+
+Write the solution here.
+
+:::
+
+#### Definitions
+
+item
+
+: item's definition
+
+another item
+
+: another item's definition.
+---
+chapter: 006
+---
+
+# Tootley Dootley of Chapter
+
+Paragraph. [Link](https://example.com)
+
+## Section
+
+Paragraph. *Italics* and **bold**.
+
+List:
+
+- item
+- item
+- item
+
+::: box :::
+
+Boxes are useful for drawing attention to a main point.
+
+:::
+
+### Subsection
+
+> Blockquote...
+
+Ordered list:
+
+1.
+1.
+1.
+1.
+
+#### Excercise
+
+::: {.question text="Write the question here."} :::
+
+Write the solution here.
+
+:::
+
+#### Definitions
+
+item
+
+: item's definition
+
+another item
+
+: another item's definition.
